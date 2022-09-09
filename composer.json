@@ -1,0 +1,27 @@
+{
+    "name": "rbmh/announcement",
+    "autoload": {
+        "psr-4": {
+            "RBMH\\Announcement\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jacob Viertel"
+        }
+    ],
+    "support": {
+        "email": "webdevelopment@redbull.com"
+    },
+    "extra": {
+        "statamic": {
+            "name": "RBMH Announcement",
+            "description": "RBMH Announcement addon"
+        },
+        "laravel": {
+            "providers": [
+                "RBMH\\Announcement\\ServiceProvider"
+            ]
+        }
+    }
+}
