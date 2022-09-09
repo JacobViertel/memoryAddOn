@@ -2,7 +2,7 @@
     "name": "rbmh/memory",
     "autoload": {
         "psr-4": {
-            "RBMH\\Announcement\\": "src"
+            "RBMH\\Memory\\": "src"
         }
     },
     "authors": [
@@ -20,7 +20,7 @@
         },
         "laravel": {
             "providers": [
-                "RBMH\\Announcement\\ServiceProvider"
+                "RBMH\\Memory\\ServiceProvider"
             ]
         }
     }
