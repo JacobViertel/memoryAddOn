@@ -7,11 +7,7 @@ use Statamic\Providers\AddonServiceProvider;
 class ServiceProvider extends AddonServiceProvider
 {
     protected $scripts = [
-        __DIR__ . '/../dist/js/announcement.js',
-    ];
-
-    protected $stylesheets = [
-        __DIR__ . '/../dist/css/announcement.css',
+        __DIR__ . '/../dist/js/memory.js',
     ];
 
     protected $routes = [
