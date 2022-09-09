@@ -1,0 +1,26 @@
+#announcement {    
+    padding: 4px;    
+    text-align: center;    
+    margin-top: 2rem;     
+    border-radius: 4px;    
+    border-width: 3px;    
+    position: fixed;    
+    bottom: 0;    
+    left: 0;    
+    right: 0;    
+    z-index: 100;    
+    color: white;
+    margin: 2rem 0.5rem 0.2rem 0.5rem; } 
+
+.announcement–info{
+    background-color: #77b259;
+    border-color: #77b259;
+}
+.announcement–warning{
+    background-color: #fcc976;
+    border-color: #fcc976;
+}
+.announcement–danger{
+    background-color: #e7514b;
+    border-color: #e7514b;
+}
