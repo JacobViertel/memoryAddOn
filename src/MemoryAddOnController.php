@@ -1,11 +1,11 @@
 <?php
 
-namespace RBMH\Announcement;
+namespace RBMH\MemoryAddOn;
 
 
 use App\Http\Controllers\Controller;
 
-class AnnouncementController extends Controller {
+class MemoryAddOnController extends Controller {
 
     public function getStaticData () {
         $data['visible'] = config('rbmh.announcement.data.visible');

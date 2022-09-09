@@ -1,5 +1,5 @@
 <?php
 
-Route::prefix('announcement')->group(function(){
-    Route::get('/', ['\\'. \RBMH\Announcement\AnnouncementController::class, 'getStaticData'])->name('getStaticData');
+Route::prefix('memoryAddOn')->group(function(){
+    Route::get('/', ['\\'. \RBMH\MemoryAddOn\AnnouncementController::class, 'getStaticData'])->name('getStaticData');
 });

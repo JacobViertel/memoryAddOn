@@ -1,6 +1,6 @@
 <?php
 
-namespace RBMH\Announcement;
+namespace RBMH\MemoryAddOn;
 
 use Statamic\Providers\AddonServiceProvider;
 

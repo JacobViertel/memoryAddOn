@@ -15,8 +15,8 @@
     },
     "extra": {
         "statamic": {
-            "name": "RBMH Announcement",
-            "description": "RBMH Announcement addon"
+            "name": "RBMH Memory Addon",
+            "description": "RBMH Memory addon"
         },
         "laravel": {
             "providers": [
