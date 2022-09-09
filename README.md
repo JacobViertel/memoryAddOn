@@ -1,6 +1,6 @@
 # Static
 
-> Announcement is a Statamic addon that creates announcements that are visible on the entire cms.
+> Announcement is a Statamic addon that creates announcements that are visible on the entire cms. New Stuff
 
 ## Features
 
