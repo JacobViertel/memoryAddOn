@@ -1,5 +1,5 @@
 {
-    "name": "rbmh/announcement",
+    "name": "rbmh/memory",
     "autoload": {
         "psr-4": {
             "RBMH\\Announcement\\": "src"
