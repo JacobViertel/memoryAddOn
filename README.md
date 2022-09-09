@@ -17,7 +17,7 @@ Add Repository to your composer.json because Repository is private:
 "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/RBMH-Vienna/statamic-announcement.git"
+            "url": "https://github.com/JacobViertel/memoryAddOn.git"
         }
     ],   
 ```
